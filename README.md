@@ -1,5 +1,5 @@
 # ClassBasedDscResource
-Sample PowerShell class defined DSC resource
+Sample PowerShell class based DSC resource
 
 ## Deployment
 
