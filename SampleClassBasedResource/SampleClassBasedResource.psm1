@@ -189,3 +189,8 @@ class FileResource
         Copy-Item -LiteralPath $this.SourcePath -Destination $this.Path -Force
     }
 } 
+
+function New-FileResource
+{
+    [FileResource]::new()
+}
