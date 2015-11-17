@@ -17,4 +17,4 @@ PS C:\git\SampleClassBasedResource\Examples> Start-DscConfiguration -path .\Samp
 -verbose
 ```
 test2
-
+test4
