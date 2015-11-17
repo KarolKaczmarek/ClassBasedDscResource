@@ -1,6 +1,7 @@
 # ClassBasedDscResource
 Sample PowerShell class based DSC resource
 
+
 ## Deployment
 
 * Create a module folder under $pshome\Modules or $env:SystemDrive\Program Files\WindowsPowerShell\Modules. You do not need to create DSCResource subfolder.
@@ -8,6 +9,7 @@ Sample PowerShell class based DSC resource
 md SampleClassBasedResource
 ```
 * Copy the MyDscResource.psm1 and MyDscResource.psd1 to MyDscResource folder.
+
 
 ## Run configuration
 
