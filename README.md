@@ -16,5 +16,3 @@ PS C:\git\SampleClassBasedResource\Examples> .\SampleClassBasedResourceConfigura
 PS C:\git\SampleClassBasedResource\Examples> Start-DscConfiguration -path .\SampleClassBasedResourceConfiguration -wait
 -verbose
 ```
-test2
-test4
